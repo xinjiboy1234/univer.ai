@@ -1,4 +1,19 @@
 {
+  "back": {
+    "title": "🏠 Univer Pro Introduction",
+    "href": "/pro/guides/general/introduction"
+  },
+  "examples": {
+    "title": "🎮 Examples ↗",
+    "href": "/pro/examples"
+  },
+  "sheet": {
+    "title": "📊 Univer Pro Sheet",
+    "href": "/pro/guides/sheet/introduction"
+  },
+  "---": {
+    "type": "separator"
+  },
   "introduction": "Introduction to Univer Pro Sheet",
   "getting-started": "Getting Started",
   "features": "Features",

@@ -1,7 +1,7 @@
 {
-  "doc": {
+  "general": {
     "type": "page",
-    "title": "Univer Pro Doc"
+    "title": "General"
   },
   "sheet": {
     "type": "page",

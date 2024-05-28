@@ -1,0 +1,14 @@
+{
+  "introduction": "🏠 Univer Introduction",
+  "examples": {
+    "title": "🎮 Examples ↗",
+    "href": "/pro/examples"
+  },
+  "sheet": {
+    "title": "📊 Univer Pro Sheet",
+    "href": "/pro/guides/sheet/introduction"
+  },
+  "---": {
+    "type": "separator"
+  }
+}

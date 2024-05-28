@@ -1,5 +1,27 @@
 {
+  "back": {
+    "title": "🏠 Univer Introduction",
+    "href": "/guides/general/introduction"
+  },
+  "examples": {
+    "title": "🎮 Examples ↗",
+    "href": "/examples"
+  },
+  "sheet": {
+    "title": "📊 Univer Sheet",
+    "href": "/guides/sheet/introduction"
+  },
+  "doc": {
+    "title": "📝 Univer Doc",
+    "href": "/guides/doc/introduction"
+  },
+  "slide": {
+    "title": "📽️ Univer Slide",
+    "href": "/guides/slide/introduction"
+  },
+  "---": {
+    "type": "separator"
+  },
   "introduction": "Introduction to Univer Slide",
-  "roadmap": "Roadmap",
-  "contributing": "Contribution Guides"
+  "roadmap": "Roadmap"
 }

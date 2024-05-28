@@ -90,17 +90,17 @@ import { Callout } from 'nextra/components'
 
     ```ts
     export const locales = {
-      [LocaleType.EN_US]: {
-        ...UniverSheetsEnUS,
-        ...UniverDocsUIEnUS,
-        ...UniverSheetsUIEnUS,
-        ...UniverUiEnUS,
-        ...UniverDesignEnUS,
-        ...functionEnUS,
-      },
-      [LocaleType.ZH_CN]: {
-        ...functionZhCN,
-      },
+      [LocaleType.EN_US]: Tools.deepMerge({
+        SheetsEnUS,
+        DocsUIEnUS,
+        SheetsUIEnUS,
+        UIEnUS,
+        DesignEnUS,
+        functionEnUS
+      }),
+      [LocaleType.ZH_CN]: Tools.deepMerge({
+        functionZhCN
+      }),
     };
     ```
 

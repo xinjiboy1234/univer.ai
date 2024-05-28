@@ -1,4 +1,8 @@
 {
+  "general": {
+    "type": "page",
+    "title": "概要"
+  },
   "sheet": {
     "type": "page",
     "title": "Univer Sheet"

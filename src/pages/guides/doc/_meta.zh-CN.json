@@ -1,7 +1,29 @@
 {
+  "back": {
+    "title": "🏠 Univer 简介",
+    "href": "/guides/general/introduction"
+  },
+  "examples": {
+    "title": "🎮 Examples ↗",
+    "href": "/examples"
+  },
+  "sheet": {
+    "title": "📊 Univer Sheet",
+    "href": "/guides/sheet/introduction"
+  },
+  "doc": {
+    "title": "📝 Univer Doc",
+    "href": "/guides/doc/introduction"
+  },
+  "slide": {
+    "title": "📽️ Univer Slide",
+    "href": "/guides/slide/introduction"
+  },
+  "---": {
+    "type": "separator"
+  },
   "introduction": "Univer Doc 简介",
   "roadmap": "路线图",
   "getting-started": "开始使用",
-  "troubleshooting": "常见问题",
-  "contributing": "贡献指南"
+  "troubleshooting": "常见问题"
 }

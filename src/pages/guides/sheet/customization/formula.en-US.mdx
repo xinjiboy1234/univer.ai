@@ -90,17 +90,17 @@ You can create a new `custom-function.ts` file to specifically place custom form
 
     ```ts
     export const locales = {
-      [LocaleType.EN_US]: {
-        ...UniverSheetsEnUS,
-        ...UniverDocsUIEnUS,
-        ...UniverSheetsUIEnUS,
-        ...UniverUiEnUS,
-        ...UniverDesignEnUS,
-        ...functionEnUS,
-      },
-      [LocaleType.ZH_CN]: {
-        ...functionZhCN,
-      },
+      [LocaleType.EN_US]: Tools.deepMerge({
+        SheetsEnUS,
+        DocsUIEnUS,
+        SheetsUIEnUS,
+        UIEnUS,
+        DesignEnUS,
+        functionEnUS
+      }),
+      [LocaleType.ZH_CN]: Tools.deepMerge({
+        functionZhCN
+      }),
     };
     ```
 

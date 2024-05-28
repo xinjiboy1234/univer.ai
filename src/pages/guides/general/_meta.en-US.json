@@ -1,8 +1,5 @@
 {
-  "back": {
-    "title": "🏠 Univer Introduction",
-    "href": "/guides/general/introduction"
-  },
+  "introduction": "🏠 Univer Introduction",
   "examples": {
     "title": "🎮 Examples ↗",
     "href": "/examples"
@@ -22,8 +19,7 @@
   "---": {
     "type": "separator"
   },
-  "introduction": "Introduction to Univer Doc",
-  "roadmap": "Roadmap",
-  "getting-started": "Getting Started",
-  "troubleshooting": "Troubleshooting"
+  "advanced": "Advanced Usage",
+  "architecture": "Architecture",
+  "contributing": "Contribution Guides"
 }
